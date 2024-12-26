@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available here on my **GitHub**
 
-- 📝 I regularly write about on my OS on **X** or **Youtube** 
+- 📝 I regularly write about on my OS on [**X**](https://x.com/ivanhofren) or [**Youtube**](https://www.youtube.com/@ivanhofren)
 
 - 💬 Ask me about **technology or science!**
 
@@ -19,7 +19,8 @@
 
 - ⚡ 👯 I’m looking for other young developers! **I'm 15 years old!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My linked socials!:</h3>
+<h5 align="left">There's more on my website!:</h5>
 <p align="left">
 <a href="https://twitter.com/ivanhofren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanhofren" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/theivanhofren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/theivanhofren/" height="30" width="40" /></a>
