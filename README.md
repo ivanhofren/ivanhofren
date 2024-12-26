@@ -1,54 +1,28 @@
-Here’s the improved version of your GitHub profile README in raw text:
+<h1 align="center">Hi 👋, I'm Ivan Hofrén</h1>
+<h3 align="center">💻 Software Engineer | 🚀 AI Enthusiast | 🌐 Python Developer</h3>
 
-👋 Hi, I’m Ivan Hofrén
+- 🔭 I’m currently working on [a trader bot](https://hofren.com/portfolio/trader-bot/)
 
-💻 Software Engineer | 🚀 AI Enthusiast | 🌐 Python Developer
+- 🌱 I’m currently learning **PyTorch and Pycharm**
 
-About Me
+- 🤝 I’m looking for help with **learning new stuff**
 
-I’m a dedicated developer with a strong foundation in Python and a passion for Artificial Intelligence. My expertise lies in AI-driven applications and Deep Learning, and I enjoy exploring the boundaries of technology to build innovative and impactful solutions.
+- 👨‍💻 All of my projects are available at [https://hofren.com/portfolio](https://hofren.com/portfolio)
 
-Currently, I’m working on exciting AI projects and pushing forward with cutting-edge software development techniques. My vision is to merge creativity with technology to create systems that are both user-friendly and powerful.
+- 📝 I regularly write articles on [https://hofren.com/ivanhofren/](https://hofren.com/ivanhofren/)
 
-🌟 My goal: To simplify technology while creating meaningful, innovative solutions that inspire.
+- 📫 How to reach me **ivanhofren@icloud.com**
 
-🔧 Tech Stack
+- 📄 Know about my experiences [https://hofren.com/cv/](https://hofren.com/cv/)
 
-Programming Language:
-	•	Python 🐍
+- ⚡ 👯 I’m looking for other young Python programmers! **I'm 15 years old!**
 
-Specializations:
-	•	Artificial Intelligence
-	•	Deep Learning
-	•	Software Development
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ivanhofren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanhofren" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/theivanhofren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/theivanhofren/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@ivanhofren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ivanhofren" height="30" width="40" /></a>
+</p>
 
-🌱 What I’m Currently Learning
-	•	Advanced AI models and frameworks
-	•	Building scalable AI-powered applications
-	•	Exploring new Python libraries for improved development efficiency
-
-🌟 Projects
-
-1. AI Solutions
-
-Developing AI-powered tools designed to optimize workflows and provide actionable insights for businesses and individuals.
-
-2. Deep Learning Models
-
-Building robust neural networks for applications in computer vision, natural language processing, and predictive analysis.
-
-📫 Let’s Connect
-
-🌍 Website: hofren.com
-📧 Email: ivanhofren@icloud.com
-
-Feel free to check out my repositories and collaborate on projects!
-
-⚡ Fun Facts
-	•	🧠 I specialize in Deep Learning and love solving complex problems with AI.
-	•	🌊 I enjoy swimming and spending time with friends.
-	•	🎯 My dream is to shape the future of technology while keeping it elegant and accessible to everyone.
-
-💖 Thank you for visiting my profile! Let’s innovate together and build a better future.
-
-This text is professional, well-structured, and tailored to your skills and aspirations. You can copy it into your GitHub profile README to showcase your expertise. Let me know if you’d like to refine it further!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
