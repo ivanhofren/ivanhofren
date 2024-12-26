@@ -1,61 +1,54 @@
-<h2 align="left">Hi 👋! My name is Ivan and I'm a Python Developer, from Sweden!</h2>
+Here’s the improved version of your GitHub profile README in raw text:
 
-###
+👋 Hi, I’m Ivan Hofrén
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanhofren&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanhofren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+💻 Software Engineer | 🚀 AI Enthusiast | 🌐 Python Developer
 
-###
+About Me
 
-<img align="right" height="170" src="https://hofren.com/wp-content/uploads/2024/12/IMG_0465.heic"  />
+I’m a dedicated developer with a strong foundation in Python and a passion for Artificial Intelligence. My expertise lies in AI-driven applications and Deep Learning, and I enjoy exploring the boundaries of technology to build innovative and impactful solutions.
 
-###
+Currently, I’m working on exciting AI projects and pushing forward with cutting-edge software development techniques. My vision is to merge creativity with technology to create systems that are both user-friendly and powerful.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-</div>
+🌟 My goal: To simplify technology while creating meaningful, innovative solutions that inspire.
 
-###
+🔧 Tech Stack
 
-<div align="left">
-  <a href="https://www.youtube.com/@ivanhofren" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/theivanhofren/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/ivanhofren" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=ivanfuzzer&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:ivanhofren@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.paypal.com/paypalme/my/profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  </a>
-</div>
+Programming Language:
+	•	Python 🐍
 
-###
+Specializations:
+	•	Artificial Intelligence
+	•	Deep Learning
+	•	Software Development
 
-<br clear="both">
+🌱 What I’m Currently Learning
+	•	Advanced AI models and frameworks
+	•	Building scalable AI-powered applications
+	•	Exploring new Python libraries for improved development efficiency
 
-<img src="https://raw.githubusercontent.com/ivanhofren/ivanhofren/output/snake.svg" alt="Snake animation" />
+🌟 Projects
 
-###
+1. AI Solutions
+
+Developing AI-powered tools designed to optimize workflows and provide actionable insights for businesses and individuals.
+
+2. Deep Learning Models
+
+Building robust neural networks for applications in computer vision, natural language processing, and predictive analysis.
+
+📫 Let’s Connect
+
+🌍 Website: hofren.com
+📧 Email: ivanhofren@icloud.com
+
+Feel free to check out my repositories and collaborate on projects!
+
+⚡ Fun Facts
+	•	🧠 I specialize in Deep Learning and love solving complex problems with AI.
+	•	🌊 I enjoy swimming and spending time with friends.
+	•	🎯 My dream is to shape the future of technology while keeping it elegant and accessible to everyone.
+
+💖 Thank you for visiting my profile! Let’s innovate together and build a better future.
+
+This text is professional, well-structured, and tailored to your skills and aspirations. You can copy it into your GitHub profile README to showcase your expertise. Let me know if you’d like to refine it further!
