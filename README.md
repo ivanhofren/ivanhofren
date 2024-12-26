@@ -9,15 +9,13 @@
 
 - 🤝 I’m looking for help with **learning new tech stuff!**
 
-- 👨‍💻 All of my projects are available at [https://hofren.com/portfolio](https://hofren.com/portfolio)
+- 👨‍💻 All of my projects are available here on my **GitHub**
 
-- 📝 I regularly write articles on my OS [https://hofren.com/ivanhofren/](https://hofren.com/ivanhofren/)
+- 📝 I regularly write about on my OS on **X** or **Youtube** 
 
 - 💬 Ask me about **technology or science!**
 
 - 📫 How to reach me **ivanhofren@icloud.com**
-
-- 📄 Know about my experiences [https://hofren.com/cv/](https://hofren.com/cv/)
 
 - ⚡ 👯 I’m looking for other young developers! **I'm 15 years old!**
 
