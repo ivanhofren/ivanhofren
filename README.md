@@ -13,13 +13,13 @@
 
 - 🏊‍♂️ When I’m not coding, you’ll probably find me swimming or hanging out with friends [or hanging out with friends](or hanging out with friends)
 
-- 🧠 I’m really into AI and love messing around with projects to see what [I can make it do](I can make it do)
+- 🧠 I’m really into technology and love messing around with projects to see what [I can make it do](I can make it do)
 
 - 💬 Ask me about **idk, maybe how the operating system is going or maybe facts about it?**
 
 - 📫 How to reach me **ivanhofren@icloud.com**
 
-- 🌍 I think it’s insane how technology can solve problems like pollution or make things like self-driving cars possible. It’s the future, [and I want to be part of it](and I want to be part of it)
+- 🌍 I think it’s insane how much spyware there is it the modern world [, so that's why I decided to build my own operting system](, so that's why I decided to build my own operting system)
 
 - ⚡ 👯 Thanks for looking at my GitHub profile, **please leave a star on one of my small repositories!**
 
