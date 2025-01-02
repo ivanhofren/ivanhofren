@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ivanhofren@icloud.com**
 
-- 🌍 I think it’s insane how much spyware there is it the modern world [, so that's why I decided to build my own operting system](, so that's why I decided to build my own operting system)
+- 🌍 I think it’s insane how much spyware there is it the modern world, *so that's why I decided to build my own operting system* !
 
 - ⚡ 👯 Thanks for looking at my GitHub profile, **please leave a star on one of my small repositories!**
 
