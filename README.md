@@ -11,7 +11,7 @@
 
 - 🤝 I’m always looking for inspiration **so I can upgrade and make my OS better**
 
-- 🏊‍♂️ When I’m not coding, you’ll probably find me swimming or hanging out with friends [or hanging out with friends](or hanging out with friends)
+- 🏊‍♂️ When I’m not coding, you’ll probably find me swimming or hanging out with friends, or hanging out with friends]
 
 - 🧠 I’m really into technology and love messing around with projects to see what [I can make it do](I can make it do)
 
