@@ -11,15 +11,15 @@
 
 - 🤝 I’m always looking for inspiration **so I can upgrade and make my OS better**
 
-- 🏊‍♂️ When I’m not coding, you’ll probably find me swimming or hanging out with friends, or hanging out with friends]
+- 🏊‍♂️ When I’m not coding, you’ll probably find me swimming or hanging out with friends, or hanging out with friends
 
-- 🧠 I’m really into technology and love messing around with projects to see what [I can make it do](I can make it do)
+- 🧠 I’m really into technology and love messing around with projects to see what I can make it do
 
 - 💬 Ask me about **idk, maybe how the operating system is going or maybe facts about it?**
 
 - 📫 How to reach me **ivanhofren@icloud.com**
 
-- 🌍 I think it’s insane how much spyware there is it the modern world, *so that's why I decided to build my own operting system* !
+- 🌍 I think it’s insane how much spyware there is it the modern world, *so that's why I decided to build my own operting system*!
 
 - ⚡ 👯 Thanks for looking at my GitHub profile, **please leave a star on one of my small repositories!**
 
